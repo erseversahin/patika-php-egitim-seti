@@ -5,7 +5,7 @@ https://kodluyoruz.com / https://patika.dev php eğitim seti.
 1. Giriş
    1. Php nedir?
    2. Php&#39;nin tarihi
-   3. net dökümanları
+   3. php.net dökümanları
    4. Composer Nedir?
 2. Apache hakkında bilgilendirme
 3. PHP&#39;ye Başlangıç
