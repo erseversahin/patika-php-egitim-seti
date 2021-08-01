@@ -102,14 +102,15 @@ https://kodluyoruz.com / https://patika.dev php eğitim seti.
     10. Namespance Kullanımı
     11. Zincirleme Methodlar
     12. Sınıfları Otomatik Yükleme
-22. Veri Değişim Formatları
-23. Düzenli İfadeler
-24. Hata Yönetimi
-25. Güvenlik
-26. cURL Kullanımı
-27. Mail İşlemleri (PhpMailer Sınıfı)
-28. .htaccess Kullanımı
-29. Javascript ve PHP
+22. MVC Yapısı
+23. Veri Değişim Formatları
+24. Düzenli İfadeler
+25. Hata Yönetimi
+26. Güvenlik
+27. cURL Kullanımı
+28. Mail İşlemleri (PhpMailer Sınıfı)
+29. .htaccess Kullanımı
+30. Javascript ve PHP
 
 **Proje 1** : Todo List
 
